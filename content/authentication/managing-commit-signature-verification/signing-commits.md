@@ -1,4 +1,4 @@
----
+t---
 title: Signing commits
 intro: 'You can sign commits locally using GPG, SSH, or S/MIME.'
 redirect_from:
